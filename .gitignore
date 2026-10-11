@@ -1,0 +1,11 @@
+*.jks
+*.keystore
+*.idsig
+*.apk
+aligned.apk
+base.apk
+res.zip
+top.txt
+shot*.png
+classes/
+dex/
